@@ -1,7 +1,6 @@
 import React from "react";
 
 import Universe from "./Universe.js";
-import Footer from "../Foter";
 import RightSection from "./RightSection";
 import Hero from "./Heroo.js";
 import LeftSection from "./LeftSection";
