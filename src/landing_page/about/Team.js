@@ -13,17 +13,17 @@ function Team() {
       >
         <div className='col-12 col-md-6 p-3 p-md-5 text-center'>
           <img
-            src='media/images/nithinKamath.jpg'
+            src='media/images/deepak.jpg'
             className='img-fluid'
             style={{ borderRadius: "100%", maxWidth: "200px" }}
-            alt='Nithin Kamath'
+            alt='Deepak Prajapati'
           />
-          <h4 className='mt-4'>Nithin Kamath</h4>
+          <h4 className='mt-4'>Deepak Prajapati</h4>
           <h6>Founder, CEO</h6>
         </div>
         <div className='col-12 col-md-6 p-3 p-md-5'>
           <p>
-            Nithin bootstrapped and founded StoxBridge in 2010 to overcome the
+            Deepak bootstrapped and founded StoxBridge in 2010 to overcome the
             hurdles he faced during his decade long stint as a trader. Today,
             StoxBridge has changed the landscape of the Indian broking industry.
           </p>

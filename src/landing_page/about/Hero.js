@@ -46,11 +46,11 @@ function Hero() {
           </p>
           <p>
             And yet, we are always up to something new every day. Catch up on
-            the latest updates on our blog or see what the media is
+            the latest updates on our blog or see what the media is&nbsp;
             <a style={{ textDecoration: "none" }} href='#'>
               saying about
             </a>{" "}
-            us or learn more about our business and product
+            us or learn more about our business and product &nbsp;
             <a style={{ textDecoration: "none" }} href='#'>
               philosophies.
             </a>
